@@ -1,4 +1,10 @@
+# Hi There ! I'm Gaurav Bhattacharya
+
+I'm a Data Scientist proficient, skilled in Python for data manipulation and model development. Passionate about solving complex problems and driving informed decision-making through data-driven approaches. Strong communicator and collaborator, with a proven track record of delivering valuable contributions to diverse projects.
+
 # 💫 About Me:
+
+
 🔭 I'm Currently Working on Machine Learning, Deep Learning and NLP Projects<br>👯 I’m looking to collaborate on Projects<br>🌱 I’m currently learning Generative AI and LLM<br>💬 Machine Learning, Statistics<br>⚡ I'm Batman
 
 
