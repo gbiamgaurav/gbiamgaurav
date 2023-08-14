@@ -5,7 +5,7 @@ I'm a Data Scientist proficient, skilled in Python for data manipulation and mod
 # 💫 About Me:
 
 
-🔭 I'm Currently Working on Machine Learning, Deep Learning and NLP Projects<br>👯 I’m looking to collaborate on Projects<br>🌱 I’m currently learning Generative AI and LLM<br>💬 Machine Learning, Statistics<br>⚡ I'm Batman
+🔭 I'm Currently Working on Machine Learning, Deep Learning and NLP Projects<br>👯 I’m looking to collaborate on Projects<br>🌱 I’m currently learning Generative AI and LLM<br>💬 You can ask me about Machine Learning, Statistics<br>⚡ Fun Fact - I'm Batman
 
 
 ## 🌐 Socials:
