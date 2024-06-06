@@ -1,4 +1,4 @@
-# 😎 🖐️ Hey, Welcome to my Page, Glad to see you!
+# 😎 🖐️ Hey There, Welcome, Glad to see you!
 
 I'm a Data Scientist, skilled in Python for data manipulation and model development. Passionate about solving complex problems and driving informed decision-making through data-driven approaches. Strong communicator and collaborator, with a proven track record of delivering valuable contributions to diverse projects.
 
