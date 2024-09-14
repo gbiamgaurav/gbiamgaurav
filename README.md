@@ -1,11 +1,11 @@
-# 😎 🖐️ Hey There, Welcome, Glad to see you!
+# 😎 🖐️ Hey, Welcome, Glad to see you!
 
-I'm a Data Scientist, skilled in Python for data manipulation and model development. Passionate about solving complex problems and driving informed decision-making through data-driven approaches. Strong communicator and collaborator, with a proven track record of delivering valuable contributions to diverse projects.
+I'm Gaurav a Data Scientist, skilled in Python for data manipulation and model development. Passionate about solving complex problems and driving informed decision-making through data-driven approaches. Strong communicator and collaborator, with a proven track record of delivering valuable contributions to diverse projects.
 
 # 💫 About Me:
 
 
-🔭 I'm Currently Working on Machine Learning, Deep Learning and CV Projects<br>👯 I’m looking to collaborate with People on Data Science Projects<br>🌱 I’m currently learning Generative AI and LLM<br>💬 You can ask me about Machine Learning, Statistics<br>
+🔭 I'm Currently Working in the field of Gen AI <br>👯 I’m looking to collaborate with People on Data Science Projects<br>🌱 I’m currently learning Generative AI and LLM and Everyday Data Science <br>💬 You can ask me about Machine Learning, Statistics<br>
 
 
 ## 🌐 Socials:
