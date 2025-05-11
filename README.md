@@ -5,7 +5,7 @@ I'm Gaurav a Data Scientist, skilled in Python for data manipulation and model d
 # 💫 About Me:
 
 
-🔭 I'm Currently Working in the field of Gen AI <br>👯 I’m looking to collaborate with People on Data Science Projects<br>🌱 I’m currently learning Generative AI and LLM and Everyday Data Science <br>💬 You can ask me about Machine Learning, Statistics<br>
+🔭 I'm Currently Working on Gen AI Use Cases <br>👯 I’m looking to collaborate with People on Data Science Projects <br>🌱 I’m currently learning Generative AI and LLM and Everyday Data Science <br>💬 You can ask me about Machine Learning, Statistics<br>
 
 
 ## 🌐 Socials:
